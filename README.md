@@ -347,12 +347,6 @@ function resetCalculator() {
 <div style="margin-bottom: 10px;"></div>
 
    <div>
-    <input type="checkbox" id="Davechoice" value="325$">
-    <label for="Davechoice">Single Lockpick- $</label>325
-    <input type="number" value="1" min="1">
-  </div>
-
-   <div>
     <input type="checkbox" id="Davechoice" value="1500$">
     <label for="Davechoice">Advanced Lockpick- $</label>1500
     <input type="number" value="1" min="1">
@@ -389,8 +383,8 @@ function resetCalculator() {
   </div>
 
    <div>
-    <input type="checkbox" id="Davechoice" value="25000$">
-    <label for="Davechoice">Harness- $</label>25000
+    <input type="checkbox" id="Davechoice" value="20000$">
+    <label for="Davechoice">Harness- $</label>20000
     <input type="number" value="1" min="1">
   </div>
 
@@ -414,7 +408,7 @@ function resetCalculator() {
 
 
 <div>
-  <input type="checkbox" id="25off" value="-30%">
+  <input type="checkbox" id="30off" value="-30%">
   <label for="25off">PD & EMS - 30% off</label>
   <input type="number" value="1" min="1" max="1">
 </div>
@@ -446,7 +440,7 @@ function resetCalculator() {
 </div>
 
 <div class="total-box">
-  <span>Commision (15%): $</span>
+  <span>Commision (20%): $</span>
   <span id="discount-total">0.00</span>
 </div>
 
