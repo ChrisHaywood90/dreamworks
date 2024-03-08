@@ -29,7 +29,7 @@
     }
 	
 	.reset-button {
-      width: 150px; /* Adjust the desired width */
+      width: 0px; /* Adjust the desired width */
       height: 30px; /* Adjust the desired height */
     }
     
@@ -179,7 +179,7 @@
             inline: true
           },
           {
-            name: 'Commission (15%)',
+            name: 'Commission (20%)',
             value: '$' + commission,
             inline: true
           },
