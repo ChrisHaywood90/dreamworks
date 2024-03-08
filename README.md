@@ -29,7 +29,7 @@
     }
 	
 	.reset-button {
-      width: 0px; /* Adjust the desired width */
+      width: 150px; /* Adjust the desired width */
       height: 30px; /* Adjust the desired height */
     }
     
